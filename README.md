@@ -7,12 +7,12 @@ Highlights: KPI cards, attrition by education/age/job role/salary slab, and tenu
 <img width="1309" height="732" alt="HR_Analytics" src="https://github.com/user-attachments/assets/d8957cc6-780f-4a7e-bb8c-54b28f6c7e1f" />
 
 **Key Metrics (from the report)**
-Count of Employees: ~1470
-Attrition: 237
-Attrition Rate: ~16.1%
-Average Age: ~37
-Average Monthly Salary: ~6.5K
-Average Years at Company: ~7
+Count of Employees: ~1470  
+Attrition: 237  
+Attrition Rate: ~16.1%  
+Average Age: ~37  
+Average Monthly Salary: ~6.5K  
+Average Years at Company: ~7  
 
 **Report Pages & Visuals**
 KPI Header: Employee Count, Attrition, Attrition Rate, Avg Age, Avg Salary, Avg Tenure

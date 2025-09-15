@@ -15,12 +15,12 @@ Average Monthly Salary: ~6.5K
 Average Years at Company: ~7  
 
 **Report Pages & Visuals**
-KPI Header: Employee Count, Attrition, Attrition Rate, Avg Age, Avg Salary, Avg Tenure
-Attrition by Education: Donut chart with % share
-Attrition by Age: Column chart with AgeGroup buckets
-Attrition by Salary Slabs: Bar chart (e.g., Upto 5k, 5k–10k, etc.)
-Attrition by Years at Company: Line chart showing tenure trend
-Attrition by Job Role: Bar chart
-Attrition by Gender: Small multiples / segmented card
-Job Role × Years at Company: Matrix for cross-tab view
+KPI Header: Employee Count, Attrition, Attrition Rate, Avg Age, Avg Salary, Avg Tenure  
+Attrition by Education: Donut chart with % share  
+Attrition by Age: Column chart with AgeGroup buckets  
+Attrition by Salary Slabs: Bar chart (e.g., Upto 5k, 5k–10k, etc.)  
+Attrition by Years at Company: Line chart showing tenure trend  
+Attrition by Job Role: Bar chart  
+Attrition by Gender: Small multiples / segmented card  
+Job Role × Years at Company: Matrix for cross-tab view  
 
